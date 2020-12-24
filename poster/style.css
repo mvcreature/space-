@@ -1,0 +1,255 @@
+body {
+background-color: #B18BCE;
+}
+
+.Group{
+position: absolute;
+width: 100%;
+height: 2772px;
+left: 0px;
+top: 0px;
+}
+.Group2 {
+  position: absolute;
+  width: 845px;
+  height: 1199px;
+  left: 226px;
+  top: 896px;
+
+
+}
+.Group3{
+  position: absolute;
+width: 245px;
+height: 312px;
+left: 520px;
+top: 738px;
+
+}
+.Group4{
+  position: absolute;
+width: 135px;
+height: 121px;
+left: 698px;
+top: 1496px;
+}
+.Group5{
+  position: absolute;
+  width: 216px;
+  height: 300px;
+  left: 760px;
+  top: 977px;
+}
+
+.Group6{
+  position: absolute;
+width: 298px;
+height: 248px;
+left: 365px;
+top: 1167px;
+}
+.Group7{
+  position: absolute;
+width: 151px;
+height: 126px;
+left: 340px;
+top: 987px;
+animation: spin 5s linear 0s infinite;
+
+}
+@keyframes Group7 {
+   from {transform:rotate(0deg);}
+   to {transform:rotate(360deg);}
+
+}
+.Group8{
+  position: absolute;
+width: 129.98px;
+height: 110.29px;
+left: 418.41px;
+top: 714px;
+}
+.Group9{
+  position: absolute;
+width: 161px;
+height: 144px;
+left: 406px;
+top: 677px;
+}
+.Group10{
+  position: absolute;
+width: 162px;
+height: 135px;
+left: 904px;
+top: 671px;
+
+}
+.Group11{
+  position: absolute;
+width: 233.68px;
+height: 278.33px;
+left: 659px;
+top: 420px;
+
+}
+.Group12{
+  position: absolute;
+width: 366px;
+height: 327px;
+left: 802px;
+top: 257px;
+z-index: 1
+}
+.Group13{
+  position: absolute;
+width: 123px;
+height: 172px;
+left: 622px;
+top: 190px;
+animation: spin4 3s linear 2s infinite;
+
+}
+@keyframes spin4 {
+   /* from {transform:rotate(0deg);}
+   to {transform:rotate(360deg);} */
+   0%{}
+   25%{left: 700px;}
+   50%{top: 220px; }
+   100%{}
+}
+
+}
+.Group14{
+  position: absolute;
+width: 151px;
+height: 126px;
+left: 365px;
+top: 170px;
+animation: planet3 10s linear 0s infinite;
+
+}
+@keyframes planet3 {
+   from {transform:rotate(0deg);}
+   to {transform:rotate(360deg);}
+
+}
+.Group15{
+  position: relative;
+width: 276.35px;
+height: 256.17px;
+left: 102.8px;
+top: 51.49px;
+animation: spin4 4s linear 0s infinite;
+
+}
+@keyframes spin4 {
+   /* from {transform:rotate(0deg);}
+   to {transform:rotate(360deg);} */
+   0%{}
+   25%{left: 170px;}
+   50%{top: 50px; }
+   100%{}
+}
+
+.Group16{
+  position: absolute;
+width: 449px;
+height: 381px;
+left: 406px;
+top: 0;
+z-index: 1;
+}
+.Group17{
+width: 223px;
+height: 186px;
+left: 117px;
+top: 428px;
+position: absolute;
+z-index: 1;
+ animation: planet5 5s linear 0s infinite;
+
+}
+@keyframes planet5 {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(720deg);}
+  }
+.Group18{
+  position: absolute;
+width: 109.17px;
+height: 92.63px;
+left: 299.41px;
+top: 548px;
+animation: linear 3s planet infinite;
+z-index: 0;
+
+}
+
+.Group19{
+  position: absolute;
+width: 188px;
+height: 260px;
+left: 465px;
+top: 282px;
+}
+.Group20{
+  position: absolute;
+width: 63px;
+height: 89px;
+left: 258px;
+top: 605px;
+animation:  planet2 6s linear 0s infinite;
+
+}
+@keyframes planet2 {
+  0%{}
+  25%{left: 280px;}
+  50%{top: 630px; }
+  100%{}
+  }
+  .Group21{
+  position: absolute;
+width: 79px;
+height: 72px;
+left: 1098px;
+top: 539px;
+z-index: 2;
+cursor: pointer;
+transition: 1s linear;
+}
+.Group21:hover {
+  -webkit-transform: scale(2);
+  transform: scale(2);
+}
+.Group22{
+  position: absolute;
+width: 97px;
+height: 137px;
+left: 1180px;
+top: 64px;
+
+}
+.Group23{
+  position: absolute;
+width: 172px;
+height: 236px;
+left: 965px;
+top: 15px;
+animation: spin3 5s linear 0s infinite;
+
+}
+@keyframes spin3 {
+   /* from {transform:rotate(0deg);}
+   to {transform:rotate(360deg);} */
+   0%{}
+   25%{left: 1010px;}
+   50%{top: 45px; }
+   100%{}
+
+}
+.Group24{
+  position: absolute;
+width: 449px;
+height: 381px;
+left: 406px;
+top: -5px;
+}
